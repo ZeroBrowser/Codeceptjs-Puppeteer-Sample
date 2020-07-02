@@ -1,5 +1,18 @@
 # Codeceptjs+Puppeteer+0Browser
 
-For full documentation please visit this page:
+simple UI testing example using CoeceptJS + 0Browser + Puppeteer!
 
-https://www.0browser.com/docs/test-codeceptjs.html
+Find the full story [here](https://www.0browser.com/docs/test-codeceptjs.html)
+
+## Prerequisites
+Get a free API Token from [0Borwser here](https://www.0browser.com/docs/get-token.html) 
+
+## 🏃 Run
+you can run the test using 
+
+```
+px codeceptjs run --steps
+```
+
+Enjoy! :wink:
+
