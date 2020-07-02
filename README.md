@@ -11,7 +11,7 @@ Get a free API Token from [0Borwser here](https://www.0browser.com/docs/get-toke
 you can run the test using 
 
 ```
-px codeceptjs run --steps
+npx codeceptjs run --steps
 ```
 
 Enjoy! :wink:
